@@ -31,7 +31,7 @@ Comprehensive framework for performing exploratory data analysis (EDA) using Pyt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PreProd-Internship/DIY-Python-SweetViz
+git clone https://github.com/VITB-Tigers/SweetViz-Python-Library
 ```
 
 2. Create and activate a virtual environment (recommended). If using Conda:
