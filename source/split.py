@@ -3,13 +3,9 @@
     # Description: This code script contains the function to split the data into training and testing sets.
 
     # Developed By: 
-        # Name: Mohini T
-        # Role: Intern, PreProd Corp
-        # Code ownership rights: Mohini T, PreProd Corp
-    
-    # Version:
-        # v1.0 Initial version. [Date: 09-12-2024]
-        # v1.1 Updated function to be dynamic. [Date: 10-12-2024]
+        # Name: Mohini Tiwari
+        # Role: Developer
+        # Code ownership rights: Mohini Tiwari
 
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 

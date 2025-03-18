@@ -3,14 +3,9 @@
     # Description: This code script contains the Streamlit web app for generating SweetViz reports.
 
     # Developed By: 
-        # Name: Mohini T
-        # Role: Intern, PreProd Corp
-        # Code ownership rights: Mohini T, PreProd Corp
-    
-    # Version:
-        # v1.0 Initial version. [Date: 09-12-2024]
-        # v1.1 Added the functionality to generate SweetViz reports. [Date: 10-12-2024]
-        # v1.2 Fixed comparison by feature report generation. [Date: 11-12-2024]
+        # Name: Mohini Tiwari
+        # Role: Developer
+        # Code ownership rights: Mohini Tiwari
 
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

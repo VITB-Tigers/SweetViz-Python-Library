@@ -3,14 +3,9 @@
     # Description: This code script contains the functions to generate SweetViz reports.
 
     # Developed By: 
-        # Name: Mohini T
-        # Role: Intern, PreProd Corp
-        # Code ownership rights: Mohini T, PreProd Corp
-    
-    # Version:
-        # v1.0 Initial version. [Date: 09-12-2024]
-        # v1.1 Updated all report generation functions. [Date: 10-12-2024]
-        # v1.2 Removed redundant return values. [Date: 11-12-2024]
+        # Name: Mohini Tiwari
+        # Role: Developer
+        # Code ownership rights: Mohini Tiwari
 
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
