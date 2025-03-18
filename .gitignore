@@ -1,0 +1,11 @@
+# Ignore all .pyc files
+__pycache__
+
+# Ignore all generated reports
+*.html
+
+# Ignore generated train and test data files
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
